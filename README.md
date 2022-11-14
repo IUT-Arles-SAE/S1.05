@@ -17,6 +17,8 @@ The most easy way to use this repo is to use the github desktop app. You can dow
 - [w3schools css](https://www.w3schools.com/css/)
 - [the site we are making](https://2022-arles-iut-sae.github.io/S01-05/site/)
 
+---
+
 ***Please create folder to keep your work organized.***
 
 ***Please DO NOT use compressed files.***
