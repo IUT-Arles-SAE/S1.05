@@ -15,6 +15,7 @@ The most easy way to use this repo is to use the github desktop app. You can dow
 - [github markdown](https://guides.github.com/features/mastering-markdown/)
 - [w3schools html](https://www.w3schools.com/html/)
 - [w3schools css](https://www.w3schools.com/css/)
+- [w3schools bootstrap](https://www.w3schools.com/bootstrap5/index.php)
 - [the site we are making](https://2022-arles-iut-sae.github.io/S01-05/site/)
 - [the trello board](https://trello.com/invite/b/vGfNMDlh/ATTI58277721ea15a9eb201413eba8f416fdB1D1B4E5/planning)
 
