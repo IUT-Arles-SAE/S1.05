@@ -22,7 +22,7 @@ The most easy way to use this repo is to use the github desktop app. You can dow
     - [w3schools bootstrap](https://www.w3schools.com/bootstrap5/index.php)
 
 - Tools
-    - [the site we are making](https://2022-arles-iut-sae.github.io/S01-05/site/)
+    - [the site we are making](https://IUT-Arles-SAE.github.io/S01-05/site/)
     - [the trello board](https://trello.com/invite/b/vGfNMDlh/ATTI58277721ea15a9eb201413eba8f416fdB1D1B4E5/planning)
     - [github desktop app](https://desktop.github.com/)
 
