@@ -3,7 +3,7 @@
 this is a repo for the SAE S01-05.
 please update this repo with your work and make sure to keep it up to date.
 
-You can find the trello board [here](https://trello.com/b/vGfNMDlh/planning).(you need to be logged in to see it)
+You can find the trello board [here](https://trello.com/invite/b/vGfNMDlh/ATTI58277721ea15a9eb201413eba8f416fdB1D1B4E5/planning).(you need to be logged in to see it)
 
 ## How to use this repo
 
@@ -16,7 +16,7 @@ The most easy way to use this repo is to use the github desktop app. You can dow
 - [w3schools html](https://www.w3schools.com/html/)
 - [w3schools css](https://www.w3schools.com/css/)
 - [the site we are making](https://2022-arles-iut-sae.github.io/S01-05/site/)
-- [the trello board](https://trello.com/b/vGfNMDlh/planning)
+- [the trello board](https://trello.com/invite/b/vGfNMDlh/ATTI58277721ea15a9eb201413eba8f416fdB1D1B4E5/planning)
 
 ---
 
