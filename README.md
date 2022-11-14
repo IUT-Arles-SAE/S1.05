@@ -16,6 +16,7 @@ The most easy way to use this repo is to use the github desktop app. You can dow
 - [w3schools html](https://www.w3schools.com/html/)
 - [w3schools css](https://www.w3schools.com/css/)
 - [the site we are making](https://2022-arles-iut-sae.github.io/S01-05/site/)
+- [the trello board](https://trello.com/b/vGfNMDlh/planning)
 
 ---
 
