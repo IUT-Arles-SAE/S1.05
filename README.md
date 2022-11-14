@@ -10,4 +10,5 @@ You can find the trello board [here](https://trello.com/b/vGfNMDlh/planning).(yo
 The most easy way to use this repo is to use the github desktop app. You can download it [here](https://desktop.github.com/).
 
 ***Please create folder to keep your work organized.***
+
 ***Please DO NOT use compressed files.***
