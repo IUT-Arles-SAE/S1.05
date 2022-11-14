@@ -1,0 +1,32 @@
+#menu li, #menu li a {
+    display: inline-block;
+    color: black;
+}
+body{
+    background-image: url(../img/bg.png);
+    background-repeat: no-repeat;
+    width: auto;
+    height: auto;
+}
+
+#banner {
+
+    
+    /*background-color: black;*/
+    color: white;
+}
+#banner h1 {
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    /*text-align: center;*/
+    /*font-size: 200%;*/
+}
+#banner p {
+    margin-left: 20px;
+    margin-top: 0px;
+    
+    font-size: 150%;
+}
+
+
