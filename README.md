@@ -26,6 +26,9 @@ The most easy way to use this repo is to use the github desktop app. You can dow
     - [the trello board](https://trello.com/invite/b/vGfNMDlh/ATTI58277721ea15a9eb201413eba8f416fdB1D1B4E5/planning)
     - [github desktop app](https://desktop.github.com/)
 
+- Other
+    - [the site plan](plan%20du%20site.md)
+
 ---
 
 ***Please create folder to keep your work organized.***
