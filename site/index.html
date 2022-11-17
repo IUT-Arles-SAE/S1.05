@@ -11,19 +11,22 @@
             <header>
                 <h1>Mon site</h1>
             </header>
-            <nav>
-                <ul>
-                    <li><a href="index.html">Accueil</a></li>
-                    <li><a href="page1.html">Page 1</a></li>
-                    <li><a href="page2.html">Page 2</a></li>
-                </ul>
-            </nav>
-            <section>
-                <h2>Accueil</h2>
-                <p>Contenu de la page d'accueil</p>
-            </section>
-            <footer>
-                <p>Mon site - 2015</p>
-            </footer>
+            <ul class="nav nav-tabs">
+                <li class="nav-item">
+                    <a class="nav-link active" href="#">Accueil</a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#">BUT Informatique</a>
+                    <ul class="dropdown-menu">
+                        <li><a class="dropdown-item" href="parcoursa">Parcours A</a></li>
+                        <li><a class="dropdown-item" href="competence">Compétence</a></li>
+                        <li><a class="dropdown-item" href="sae">SAé</a></li>
+                    </ul>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="glossaire">Glossaire</a>
+                </li>
+            </ul>
+        </div>
     </body>
 </html>
