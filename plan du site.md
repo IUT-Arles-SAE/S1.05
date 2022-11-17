@@ -46,6 +46,36 @@
 - 1 page par cours
 - 1 page par SAé
 
+## structure des pages:
+- Dossier parent
+    - index.html
+    - bootstrap
+        - css
+            - bootstrap.min.css
+        - js
+            - bootstrap.min.js
+    - BUT_info
+        - index.html
+    - glossaire
+        - index.html
+    - parcours_A
+        - index.html
+    - competences
+        - index.html
+        - 1
+            - index.html
+        - 2
+            - index.html
+        - 3
+            - index.html
+        - 4
+            - index.html
+        - 5
+            - index.html
+        - 6
+            - index.html
+
+
 ## catégories du menu:
 - Accueil
 - BUT Informatique
