@@ -37,6 +37,9 @@
     - Présentation du concept de SAé
     - Tableau horaire des SAé du BUT 1ère année
 
+- Mentions légales
+    - Mentions légales
+
 ## Pages à créer:
 - Page d'accueil
 - Page BUT Informatique
@@ -45,6 +48,7 @@
 - 1 page par compétence
 - 1 page par cours
 - 1 page par SAé
+- Mentions légales
 
 ## structure des pages:
 - Dossier parent
@@ -74,6 +78,8 @@
             - index.html
         - 6
             - index.html
+    - Mentions légales
+        - index.html
 
 
 ## catégories du menu:
@@ -83,3 +89,4 @@
     - Compétences
     -SAé
 - Glossaire
+- Mentions légales
