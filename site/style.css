@@ -1,3 +1,9 @@
+
+body{
+    margin-left: 10px;
+}
+
+
 header{
     background-image: url(image/iut_aix_marseille.png);
     background-repeat: no-repeat;
@@ -17,8 +23,25 @@ header p{
     color: black;
 }
 
-div article{
+#preview article{
     border: 1px solid;
     
 }
 
+.txt{
+    margin-right: 20%;
+    text-align: justify;
+}
+#sidebarIMG{
+    width: 40%;
+    
+    float: right;
+}
+
+#pays{
+    display: grid;
+}
+
+article img{
+    border: 1px solid black;
+}
