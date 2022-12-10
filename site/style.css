@@ -1,6 +1,7 @@
 
 body{
     margin-left: 10px;
+    margin-right: 10px;
 }
 
 
@@ -25,8 +26,10 @@ header p{
 
 #preview article{
     border: 1px solid;
+    border-radius: 30px;
     
 }
+
 
 .txt{
     margin-right: 20%;
