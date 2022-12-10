@@ -10,6 +10,12 @@ header{
     background-repeat: no-repeat;
 }
 
+@media screen and (max-width: 600px) {
+    header{
+        background-image: none;
+    }
+}
+
 header p, header h3{
     text-align: end;
     margin-top: 15px;
