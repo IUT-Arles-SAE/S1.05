@@ -41,14 +41,14 @@
     - Mentions légales
 
 ## Pages à créer:
-- Page d'accueil
-- Page BUT Informatique
-- Page glossaire
-- Page parcours A
-- 1 page par compétence
-- 1 page par cours
-- 1 page par SAé
-- Mentions légales
+- [] Page d'accueil
+- [] Page BUT Informatique
+- [] Page glossaire
+- [] Page parcours A
+- [] 1 page par compétence
+- [] 1 page par cours
+- [] 1 page par SAé
+- [] Mentions légales
 
 ## structure des pages:
 - Dossier parent
