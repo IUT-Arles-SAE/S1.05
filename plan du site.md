@@ -41,8 +41,8 @@
     - Mentions légales
 
 ## Pages à créer:
-- [ ] Page d'accueil
-- [ ] Page BUT Informatique
+- [x] Page d'accueil
+- [/] Page BUT Informatique
 - [ ] Page glossaire
 - [ ] Page parcours A
 - [ ] 1 page par compétence
