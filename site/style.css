@@ -10,11 +10,6 @@ header{
     background-repeat: no-repeat;
 }
 
-@media screen and (max-width: 600px) {
-    header{
-        background-image: none;
-    }
-}
 
 header p, header h3{
     text-align: end;
@@ -86,4 +81,18 @@ tr:nth-child(even) {
 
 a{
     color: #0066CC;
+}
+
+
+@media screen and (max-width: 600px) {
+    header{
+        background-image: none;
+        
+    }
+    header p, header h3{
+        text-align: center;
+    }
+    .sidebarIMG{
+        float: none;
+    }
 }
