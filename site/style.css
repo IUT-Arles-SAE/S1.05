@@ -96,3 +96,7 @@ a{
         float: none;
     }
 }
+
+.collapse:not(.show){
+    display:block;
+}
