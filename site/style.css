@@ -59,9 +59,9 @@ article img{
 
 table {
     font-family: arial, sans-serif;
-    border-collapse: collapse;
-    
+    border-collapse: collapse;   
 }
+
 
 .right{
     float: right;
@@ -81,5 +81,9 @@ td, th {
 }
 
 tr:nth-child(even) {
-    background-color: #dddddd;
+    background-color: #00CCFF;
+}
+
+a{
+    color: #0066CC;
 }
