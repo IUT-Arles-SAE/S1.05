@@ -83,6 +83,12 @@ a{
     color: #0066CC;
 }
 
+.size{
+    width: 30%;
+}
+.size1{
+    width: 75%;
+}
 
 @media screen and (max-width: 600px) {
     header{
@@ -94,9 +100,16 @@ a{
     }
     .sidebarIMG{
         float: none;
+        width: 50%;
+    }
+    .size{
+        width: 70%;
+    }
+    .size1{
+        float: right;
+    }
+    .navbar .collapse:not(.show){
+        display:block;
     }
 }
 
-.collapse:not(.show){
-    display:block;
-}
